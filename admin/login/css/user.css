@@ -1,0 +1,34 @@
+form{
+    margin-top: 2em;
+    background-color: #E07B4E;
+    width: 35em;
+    height: 46em;
+    border-bottom: white solid 1px;
+}
+
+.icon input[type=text]{
+    padding-right: 3em;
+
+}
+
+.icon input[type=email]{
+    padding-right: 3em;
+
+}
+
+.icon input[type=password]{
+    padding-right: 3em;
+
+}
+
+.icon{
+    position: relative;
+}
+.icon i{
+    position: absolute;
+    right: 0px;
+    top: -1.3em;
+    padding: 2em 2em;
+    transition: .3s;
+
+}

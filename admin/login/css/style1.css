@@ -1,0 +1,9 @@
+.menu-title{
+    font-size: 1.5em;
+    color: white;
+    margin-top: 1em;
+
+}
+.menu-title:hover{
+    color: #33c92e;
+}

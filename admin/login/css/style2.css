@@ -1,0 +1,129 @@
+.navbar-brand a{
+    font-family: "driodkufi", Akhbar MT, Segoe UI Light, Sans-Serif;
+
+}
+
+header{
+    font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    line-height: 35px;
+    position: relative;
+    font-weight: 400;
+    color: rgba(26,89,120,0.9);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+    padding: 0px 0px 5px 0px;
+}
+
+
+form{
+    margin-top: 2em;
+
+    width: 35em;
+    height: 23em;
+    border-bottom: white solid 1px;
+}
+
+form h4{
+    font-size: 1.3em;
+    color: #fff;
+    padding: 2px 0 10px 0;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px;
+    content: ' ';
+    display: block;
+    width: 100%;
+    height: 2px;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+label{
+    margin-left: 29.5em;
+    color: white;
+
+}
+form button{
+    margin-left: 18.3em;
+    width: 25%;
+    cursor: pointer;
+    background: #ccc;
+    padding: 8px 5px;
+    color: #343a40;
+    font-size: 22px;
+    border: 0px;
+    margin-bottom: 10px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+    height: 1.5em;
+    padding-bottom: 2em;
+
+
+
+}
+#button button:hover{
+    background-color: #1d2124;
+    color: white;
+}
+
+#link{
+
+    color: rgb(127, 124, 124);
+    left: 0px;
+    height: 20px;
+    width: 37.4em;
+    padding: 20px 30px 40px 30px;
+    font-size: 15px;
+    text-align: center;
+    border-top: 3px solid #fff;
+    background-color: #2B3643;
+
+    line-height: 40px;
+}
+h4:after{
+    content: ' ';
+    display: block;
+    width: 100%;
+    height: 3px;
+    margin-top: 10px;
+    background: -webkit-linear-gradient(left, rgba(147,184,189,0) 0%,#f2f2f2 20%,#fff 53%,#f2f2f2 79%,rgba(147,184,189,0) 100%);
+}
+#link a{
+    display: inline-block;
+    font-weight: bold;
+    background: #ccc;
+    padding: 2px 6px;
+    color: #454d55;
+    margin-left: 10px;
+    text-decoration: none;
+    border: 0px;
+    height: 2.5em;
+    font-family: "driodkufi", Akhbar MT, Segoe UI Light, Sans-Serif;
+
+}
+
+#link a:hover {
+    background-color: #454d55;
+    color: white;
+}
+
+.icon input[type=text]{
+    padding-right: 3em;
+
+}
+
+.icon input[type=password]{
+    padding-right: 3em;
+
+}
+
+.icon{
+    position: relative;
+}
+.icon i{
+    position: absolute;
+    right: 0px;
+    top: -1.3em;
+    padding: 2em 2em;
+    transition: .3s;
+
+}
